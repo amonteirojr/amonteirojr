@@ -4,7 +4,7 @@
 I love technology and the feeling I can do whatever I want being a developer.
 I'm a Fullstack Developer :computer:
 
- :rocket:  &nbsp; I'm currently working on **Grupo Sifra** as a FullStack Developer
+ :rocket:  &nbsp; I'm currently working on **Phi** as a Tech Leader
  <br/> :computer: &nbsp; My current stack: ReactJS, VueJS, Python
  <br/> 🎓 &nbsp; I also love to learn new stuffs, which currently are:
  <br/> &nbsp; &nbsp; - ⚛ ReactJS
